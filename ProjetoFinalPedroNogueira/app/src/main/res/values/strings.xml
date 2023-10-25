@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">App Projeto Final Helena</string>
+    <string name="TextViewApLogin">Login de Usuário</string>
+    <string name="TextViewEmailLogin">Email:</string>
+    <string name="TextViewSenhaLogin">Senha:</string>
+    <string name="TextViewRecuperarLogin">Esqueceu a senha?</string>
+    <string name="TextViewCadastrarLogin">Não possui conta? Cadastrar</string>
+    <string name="EditTextEmailLogin">Insira o email:</string>
+    <string name="EditTextSenhaLogin">Insira a senha:</string>
+    <string name="ButtonLogin">Autenticar</string>
+
+    <string name="TextViewApRecuperaSenha">Recuperar Senha</string>
+    <string name="TextViewEmailRecuperaSenha">Email:</string>
+    <string name="EditTextEmailRecuperSenha">Insira o email:</string>
+    <string name="ButtonRecuperaSenha">Recuperar</string>
+
+    <string name="TextViewApCadastrarUsuario">Cadastro de Usuário</string>
+    <string name="TextViewNomeCadastrarUsuario">Nome:</string>
+    <string name="TextViewEmailCadastrarUsuario">Email:</string>
+    <string name="TextViewSenhaCadastrarUsuario">Senha:</string>
+    <string name="EditTextNomeCadastrarUsuario">Insira seu nome</string>
+    <string name="EditTextEmailCadastrarUsuario">Insira o email</string>
+    <string name="EditTextSenhaCadastrarUsuario">Insira a senha</string>
+    <string name="EditTextSenha2CadastrarUsuario">Confirme a senha</string>
+    <string name="ButtonCadastrarUsuario">Cadastrar</string>
+
+    <string name="TextViewApCadastrarContato">Cadastro de Contato</string>
+    <string name="TextViewNomeContato">Nome: </string>
+    <string name="EditTextNomeContato">Digite o nome</string>
+    <string name="TextViewDataContato">Data:</string>
+    <string name="EditTextDataContato">Digite a data</string>
+    <string name="TextViewLocalContato">Local:</string>
+    <string name="EditTextLocalContato">Digite o endereço</string>
+    <string name="TextViewHorarioContato">Horário: </string>
+    <string name="EditTextHorarioContato">Digite o horário</string>
+    <string name="ButtonEnviarContato">Enviar</string>
+</resources>
